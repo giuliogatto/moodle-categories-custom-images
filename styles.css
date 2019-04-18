@@ -1,0 +1,23 @@
+.block_course_list .footer {
+    margin-top: 5px;
+}
+
+.block_course_list .content li {
+    margin-bottom: .3em;
+    display: inline-block;
+    padding: 5px;
+	margin: 5px;
+}
+.immagini-categorie{
+	max-width:250px;
+	margin:0 auto;
+}
+ul.unlist .collapsed{
+	text-align: center;
+}
+ul.unlist .collapsed a{
+	margin:10px;
+}
+ul.unlist li{
+	display: inline-block;
+}

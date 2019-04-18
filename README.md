@@ -1,0 +1,1 @@
+# moodle-categories-custom-images
